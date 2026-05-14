@@ -24,3 +24,7 @@ The recommended installation method on Manjaro or Arch-based systems is via AUR:
 
 ```bash
 yay -S autodarts-manager-bin
+
+## License
+
+This project is licensed under the MIT License.
